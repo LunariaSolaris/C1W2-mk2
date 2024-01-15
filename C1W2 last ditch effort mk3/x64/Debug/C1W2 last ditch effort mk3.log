@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\Jacob\source\repos\C1W2 last ditch effort mk3\main.cpp(89,16): error C2660: 'getline': function does not take 2 arguments
+C:\Users\Jacob\source\repos\C1W2 last ditch effort mk3\main.cpp(18,14): message : see declaration of 'getline'
+C:\Users\Jacob\source\repos\C1W2 last ditch effort mk3\main.cpp(89,16): message : while trying to match the argument list '(std::fstream, std::string)'
+C:\Users\Jacob\source\repos\C1W2 last ditch effort mk3\main.cpp(104,16): error C2660: 'getline': function does not take 2 arguments
+C:\Users\Jacob\source\repos\C1W2 last ditch effort mk3\main.cpp(18,14): message : see declaration of 'getline'
+C:\Users\Jacob\source\repos\C1W2 last ditch effort mk3\main.cpp(104,16): message : while trying to match the argument list '(std::fstream, std::string)'
+C:\Users\Jacob\source\repos\C1W2 last ditch effort mk3\main.cpp(104,36): error C2088: '&&': illegal for class
+C:\Users\Jacob\source\repos\C1W2 last ditch effort mk3\main.cpp(126,16): error C2660: 'getline': function does not take 2 arguments
+C:\Users\Jacob\source\repos\C1W2 last ditch effort mk3\main.cpp(18,14): message : see declaration of 'getline'
+C:\Users\Jacob\source\repos\C1W2 last ditch effort mk3\main.cpp(126,16): message : while trying to match the argument list '(std::fstream, std::string)'
+C:\Users\Jacob\source\repos\C1W2 last ditch effort mk3\main.cpp(222,20): error C2660: 'getline': function does not take 2 arguments
+C:\Users\Jacob\source\repos\C1W2 last ditch effort mk3\main.cpp(18,14): message : see declaration of 'getline'
+C:\Users\Jacob\source\repos\C1W2 last ditch effort mk3\main.cpp(222,20): message : while trying to match the argument list '(std::fstream, std::string)'
